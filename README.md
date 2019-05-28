@@ -25,7 +25,7 @@ Some things to try:
 1. **Run Pester Test:** Open `Docker-Demo.Tests.ps1.ps1`
    - Run script by pressing <kbd>F5</kbd>
 2. **Set breakpoint:**
-   - Open `Docker-Demo`
+   - Open `Docker-Demo.ps1`
    - Set breakpoint on line 10, by selecting line 10 and pressing <kbd>F9</kbd>
    - Debug <kbd>F5</kbd>
    - See that breakpoint is triggered
