@@ -26,6 +26,6 @@ Some things to try:
    - Run script by pressing <kbd>F5</kbd>
 2. **Set breakpoint:**
    - Open `Docker-Demo`
-   - Set breakpoint on line 10, by selectin line 10 and pressing <kbd>F9</kbd>
+   - Set breakpoint on line 10, by selecting line 10 and pressing <kbd>F9</kbd>
    - Debug <kbd>F5</kbd>
    - See that breakpoint is triggered
